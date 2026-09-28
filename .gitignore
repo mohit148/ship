@@ -1,4 +1,5 @@
-.env.local
+.next
+.env*.local
+.vercel
+*.tsbuildinfo
 node_modules
-supabase
-README.md
