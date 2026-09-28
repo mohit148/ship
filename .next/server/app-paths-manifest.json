@@ -1,0 +1,11 @@
+{
+  "/cards/page": "app/cards/page.js",
+  "/requests/page": "app/requests/page.js",
+  "/ships/[id]/page": "app/ships/[id]/page.js",
+  "/stats/page": "app/stats/page.js",
+  "/about/page": "app/about/page.js",
+  "/ships/page": "app/ships/page.js",
+  "/admin/backgrounds/page": "app/admin/backgrounds/page.js",
+  "/admin/users/page": "app/admin/users/page.js",
+  "/admin/page": "app/admin/page.js"
+}
